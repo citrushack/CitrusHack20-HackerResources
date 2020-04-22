@@ -1,5 +1,5 @@
 # Citrus Hack 2020 - Hacker Resources
-Some helpful guides and tutorials to point hackers in the right direction at Cutie Hack 2019! :tangerine: 
+Some helpful guides and tutorials to point hackers in the right direction at Citrus Hack 2020! :tangerine: 
 
 
 ## Sponsor APIs and Services
