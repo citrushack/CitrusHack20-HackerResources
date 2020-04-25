@@ -27,7 +27,7 @@ To view your account details-- including your available Cloud Credits and Cloud 
 https://account.wolfram.com/products
 
 ### XYZ Domain Service
-[Video On XYZ Domain Service](https://www.dropbox.com/s/7v8tch5i24h0vv2/video-instructions_how-to-rregister-domain-xyz.mp4?dl=0)
+[Instructions On XYZ Domain Service](citrushack20-xyz-domain-registration-instructions.pdf)
 
 Instructions on registering your free .xyz domain:
 1. [Search for your .xyz domain](https://gen.xyz/register), then “Go to checkout”
