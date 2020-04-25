@@ -10,7 +10,7 @@ https://hack.mlh.io/software/
 This is collection of FREE APIs courtesy of MLH for your use this weekend!
 This link will give you access to $100 in FREE Google Cloud Credit, as well as a FREE domain, courtesy of Domain.com, among many other API goodies. 
 
-### Google CLoud
+### Google Cloud
 What is Google Cloud?
 A suite of developer products that lets you build using the same technology and infrastructure that powers Google products.
 
