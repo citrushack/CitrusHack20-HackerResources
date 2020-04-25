@@ -10,7 +10,26 @@ https://hack.mlh.io/software/
 This is collection of FREE APIs courtesy of MLH for your use this weekend!
 This link will give you access to $100 in FREE Google Cloud Credit, as well as a FREE domain, courtesy of Domain.com, among many other API goodies. 
 
+### Google CLoud
+What is Google Cloud?
+A suite of developer products that lets you build using the same technology and infrastructure that powers Google products.
 
+Where can I get free credits?
+Be on the lookout for an email from Major League Hacking (MLH) for $50 of Google Cloud free credits (make sure to register for the hackathon). Not totally sure when these emails are being sent.
+
+What products should I try?
+Machine Learning APIs - gain insights from data using Google’s pre-trained machine learning models.
+- Vision (cloud.google.com/vision/docs) - but for mobile apps use Firebase ML Kit (https://firebase.google.com/docs/ml-kit).
+- Natural Language (cloud.google.com/natural-language/docs)
+- Translate (cloud.google.com/translate/docs)
+- Video Intelligence (cloud.google.com/video-intelligence/docs)
+- Speech-To-Text (https://cloud.google.com/speech-to-text/docs)
+- Text-To-Speech (cloud.google.com/text-to-speech/docs)
+Firebase (firebase.google.com) - mobile / web development platform featuring the Firebase realtime database
+App Engine (cloud.google.com/appengine/docs)- deploy web apps in Python, Node.js, Ruby, and more!
+Cloud Functions (https://cloud.google.com/functions) - deploy single functions of backend code
+Cloud Firestore (cloud.google.com/firestore/docs) easy-to-use realtime NoSQL database
+Google Maps Platform (https://cloud.google.com/maps-platform)
 
 ### Wolfram Alpha API
 https://account.wolfram.com/redeem/CutieHack112019
@@ -27,18 +46,17 @@ To view your account details-- including your available Cloud Credits and Cloud 
 https://account.wolfram.com/products
 
 ### XYZ Domain Service
-[Instructions On XYZ Domain Service](citrushack20-xyz-domain-registration-instructions.pdf)
 
-Instructions on registering your free .xyz domain:
-1. [Search for your .xyz domain](https://gen.xyz/register), then “Go to checkout”
+
+1. Search for your .xyz domain, then “Go to checkout”
 2. Select a 1 year term
 3. Click “Next: Recommended Add-Ons” and choose any add-ons you’d like
 4. Click “Next: Information & Checkout”
-o Enter promo code: CITRUSHACK20→ new total is $0.00
+o Enter promo code: CITRUSHACK20 → new total is $0.00
 5. Enter your contact details
 6. Choose PayPal or Credit Card as preferred payment method
-7. Check ✓ the box next to “I agree to...”
-8. Click “Submit Order”
+7. Check ✓ the box next to “I agree to…”
+8. Click “Submit Order
 
 
 ## Prepping Your Terminal :computer:
